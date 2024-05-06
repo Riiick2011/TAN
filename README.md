@@ -1,7 +1,7 @@
 #You Can Only Watch the Past：Track Attention Network for Online Spatio-Temporal Action Detection
 
 ## Overview of TAN
-![image](img_files/tan.png)
+![image](./img_files/TAN.png)
 
 
 ## Requirements
