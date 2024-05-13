@@ -3,7 +3,6 @@
 ## Overview of TAN
 ![image](./img_files/TAN.png)
 
-
 ## Requirements
 - We recommend you to use Anaconda to create a conda environment:
 ```Shell
@@ -57,3 +56,9 @@ python eval.py --cuda -d ucf24 --data_root /data1/su/datasets/UCF24-YOWO/ -tbs 1
 ```Shell
 python eval.py --cuda -d ucf24 --data_root /data1/su/datasets/UCF24-YOWO/ -tbs 16 -v tan_large --weight weights/ucf24/tan_large/tan_large_epoch_0.pth -ct 0.05 --cal_video_mAP --link_method viterbi
 ```
+## Note
+Model weights and detection results can be downloaded from the cloud drive link below.
+Link: https://pan.baidu.com/s/1j4890Y6rtzycWG_jQeyd-Q?pwd=m5xd 
+password: m5xd 
+
+Currently, only part of the code is released. The complete code will be released after the paper is accepted.
