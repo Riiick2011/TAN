@@ -1,5 +1,5 @@
 """
-定义了跟踪交叉注意力模块
+本文件尚未更新，将用于定义跟踪注意力模块
 """
 import numpy as np
 import torch
